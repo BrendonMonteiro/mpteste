@@ -1,1 +1,15 @@
-{comprovacoes} aaaa
+[font=Poppins][table    style="border: none!important; overflow: hidden; border-radius: 15px; width: auto; padding: 0; margin: 0 auto; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2); text-align: center;" bgcolor="#79a8c3"][tr style="border: none!important; overflow: hidden"][td style="border: none!important; overflow: hidden; padding: 7px"][table    style="line-height: 0.2em;   width: 100%; border-radius: 15px; border: none!important; overflow: hidden; line-height: 0.5em; margin: 0 auto;" bgcolor="#25313a"][tr style="border: none!important; overflow: hidden"][td style="border: none!important; overflow: hidden; padding: 14px"][img]https://2img.net/i.imgur.com/S1tKqgc.gif[/img]
+[table    style="border: none!important; border-radius: 40px; overflow: hidden; width: 40%; margin: -2% auto; top: 0.8em; position: relative; z-index: 10; justify-content: center;" bgcolor="79a8c3"][tr style="border: none!important;"][td style="border: none!important;"][center][color=white][b][size=16]Carta de {TIPO}[/size][/b][/color][/center][/td][/tr][/table]
+[table    style="width: 100%; border-radius: 15px; border: none!important; overflow: hidden; position: relative; z-index: 1; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);line-height: 1.4em; margin: 0 auto;" bgcolor="f8f8ff"][tr style="border: none!important; overflow: hidden"][td style="border: none!important; overflow: hidden"]
+
+Seja bem-vindo(a), [color=#79a8c3][b]{USERNAME}[/b][/color]
+[center][table     style="width: 20%; border-radius: 10px;border: none!important; overflow: hidden; line-height: 1em; margin-top:1em" bgcolor="79a8c3"][tr style="border: none!important; overflow: hidden"][td style="border: none!important; overflow: hidden;  padding: 1px"][/td][/tr][/table][/center]
+
+[center]Venho informar que você está sendo [b]penalizado(a)[/b] com um(a) [b]{tipo}[/b] na [b][color=#79a8c3]Escola de Formação de Executivos[/color][/b] por [b]{motivo}[/b].[/center]
+
+[center][table     style="width: 100%; border-radius: 15px; border: none!important; overflow: hidden;" bgcolor="79a8c3"][tr style="border: none!important; overflow: hidden;"][td style="width: 25%;  border: none!important; overflow: hidden; padding:12px" bgcolor="79a8c3"][center][table     style="width: 100%; border-radius: 10px; border: none!important; overflow: hidden; padding: 1px" bgcolor="79a8c3"][tr style="border: none!important; overflow: hidden; padding: 1px"][td style="width: 43%;  border: none!important; overflow: hidden; padding: 5px" bgcolor="79a8c3"][right][url={comprovacoes}][img]https://i.imgur.com/f1ROgZR.gif[/img][/url][/right][/td][td style="width: 60%; border: none!important; overflow: hidden; padding: 8px" bgcolor="79a8c3"][left][url={comprovacoes}][color=white][b][size=14]Requerimentos[/size][/b][/color]
+[color=white][size=10]Clique aqui para postar um requerimento.[/size][/color][/url][/left][/td][/tr][/table][/center][/td][/tr][/table][/center]
+[/td][/tr][/table]
+
+[size=11][color=white]<i class="fas fa-code"></i> Desenvolvido por [b].Brendon[/b] | Todos os direitos reservados à [b]Escola de Formação de Executivos[/b].[/color][/size]
+[/td][/tr][/table][/td][/tr][/table][/font]
